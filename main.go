@@ -44,7 +44,7 @@ func main() {
 	micro.Get("/healthchecker", func(c *fiber.Ctx) error {
 		return c.Status(fiber.StatusOK).JSON(fiber.Map{
 			"status":  "success",
-			"message": "Welcome to Golang, Fiber, and GORM",
+			"message": "JWT Authentication with Golang, Fiber, and GORM",
 		})
 	})
 
