@@ -28,5 +28,5 @@ In this comprehensive guide, you'll learn how to implement JWT (JSON Web Token) 
     - Logout from the API
 
 
-Read the entire article here: [https://codevoweb.com/golang-gorm-amp-fiber-jwt-authentication/](https://codevoweb.com/golang-gorm-amp-fiber-jwt-authentication/)
+Read the entire article here: [https://codevoweb.com/golang-gorm-fiber-jwt-authentication/](https://codevoweb.com/golang-gorm-fiber-jwt-authentication/)
 
